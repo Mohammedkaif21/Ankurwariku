@@ -1,0 +1,127 @@
+@media only screen and (min-width: 576px) and (max-width: 991px){
+    
+}
+@media only screen and (min-width: 200px) and (max-width: 575px){
+    .guide{
+        /* flex-direction: column; */
+        display: none;
+    }
+    .guide-content{
+        margin: 4%;
+    }
+    .guide-content-responsive{
+        text-align: center;
+        display: block;
+    }
+    .speak {
+        padding: 6% 3%;
+    }
+    .learn-to-connect{
+        padding: 26px 2px 10px;
+    }
+    .learn-to-connect button{
+        border: 0;
+        
+    }
+    .learn-to-connect h3{
+        line-height: 25px;
+        /* word-spacing: 2px; */
+        font-size: 18px;
+        /* padding-right: 20px; */
+    } 
+    .vide-button{
+        padding: 14px 0px;
+        margin: 0;
+        
+    }
+    .sessions{
+        padding-bottom: 30px;
+        max-width: 93%;
+    }
+    .demand{
+        margin: 3% 0%;
+        flex-basis: 100%;
+    }
+    .this-course{
+        max-width: 93%;
+    }
+    .this-course h2{
+        font-size: 24px;
+    }
+    .eng-speak{
+        max-width: 93%;
+    }
+    .eng-content{
+        flex-basis: 100%;
+        margin-bottom: 20px;
+    }
+    .Ultimate-Guide{
+        max-width: 86%;
+        
+    }
+
+    .Ultimate-Guide-content{
+        padding: 0px 11px;
+    }
+    .Ultimate-Guide-content h3{
+        font-size: 19px;
+    }
+    .Ultimate-Guide-button{
+        width: 52%;
+    }
+    .Ultimate-Guide-button button{
+        padding: 20px 38px;
+    }
+    .transform-head{
+        font-size: 15px;
+    }
+    .transform-head h2{
+        font-size: 25px;
+        line-height: 38px;
+    }
+    .transform-head h4{
+        font-size: 17px;
+    }
+    .completion-plan{
+        display: flex;
+        flex-direction: column;
+    }
+    .students-want-content{
+        display: flex;
+        flex-direction: column;
+    }
+    .meet-ankur-content{
+        flex-direction: column;
+    }
+    .meet-ankur-content img{
+        width: 100%;
+    }
+    .exp-complete-content{
+        flex-direction: column;
+    }
+    .tablecomparison tbody tr{
+        display: flex;
+        flex-direction: column;
+    }
+    .explore-breaking-myth{
+        flex-direction: column;
+    }
+    .compcertified{
+        flex-direction: column;
+    }
+    .certifieddata{
+        display: flex;
+        flex-direction: column;
+    }
+    .perfect-button{
+        max-width: 100%;
+        text-align: center;
+    }
+}
+/*     
+    .section-two{
+        display: none;
+    }
+    .section-three{
+        display: none;
+    } */
